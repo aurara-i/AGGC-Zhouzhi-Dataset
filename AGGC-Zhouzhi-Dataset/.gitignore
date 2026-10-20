@@ -1,0 +1,12 @@
+# Large/raw research data should be distributed via external links
+*.bag
+*.db3
+*.mcap
+*.tif
+*.tiff
+*.zip
+*.7z
+*.tar
+*.tar.gz
+.DS_Store
+__pycache__/
