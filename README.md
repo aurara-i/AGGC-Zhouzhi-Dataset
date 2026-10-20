@@ -6,11 +6,11 @@ This repository introduces the **Zhouzhi** dataset, collected in a real-world UA
 
 Related paper: **AGGC: A Training-Free Scene-Adaptive Gaussian Graph Covariance Aggregator for Visual Place Recognition**.
 
-This repository provides dataset descriptions and download links. It does not include the AGGC implementation code.
+This repository provides dataset descriptions and download links.
 
 ## Study Area
 
-![Study area of the Zhouzhi dataset](assets/zhouzhi_overview.png)
+![Study area of the Zhouzhi dataset](AGGC-Zhouzhi-Dataset/assets/zhouzhi_overview.png)
 
 *Study area of the Zhouzhi dataset. The red dashed line indicates the study-area boundary, and the arrow indicates north.*
 
@@ -90,7 +90,7 @@ Please ensure that the use and redistribution of individual data components comp
 
 Paper link: **To be added.**
 
-The Zhouzhi dataset was used to study AGGC in a real-world UAV–satellite cross-view geo-localization scenario. The AGGC algorithm and RK3588 deployment code are not included in this repository.
+The Zhouzhi dataset was used to study AGGC in a real-world UAV–satellite cross-view geo-localization scenario.
 
 ## Citation
 
