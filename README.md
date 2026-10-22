@@ -41,7 +41,9 @@ The released UAV data are organized into four folders:
 - **`groundtruth/`** — Positioning ground-truth data.
 - **`imu/`** — Inertial Measurement Unit (IMU) data.
 
-File formats, sampling rates, and timestamps should be checked in the downloaded files.
+The ROS bag recordings preserve synchronized, time-stamped UAV sensor data, including camera observations, GNSS/RTK positioning, and measurements from a MEMS IMU. The RTK-derived ground-truth trajectory, MEMS IMU stream, and sensor timing/synchronization information are especially valuable parts of the release, as these data are relatively scarce in public UAV geo-localization datasets. Together, they support trajectory evaluation, sensor-fusion research, and analysis of visual localization performance against positioning ground truth.
+
+File formats, sampling rates, coordinate conventions, and the exact timestamp fields should be checked in the downloaded files before use.
 
 ## Download
 
